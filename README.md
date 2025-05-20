@@ -1,5 +1,8 @@
 # Ember
 
+**Author**: Jack Arana  
+**Description**: Ember es una aplicación web desarrollada con Angular que permite visualizar paquetes de productos (bundles) junto con su ahorro potencial. Está conectada a una API simulada para obtener datos de productos y bundles, y calcula dinámicamente cuánto se ahorra el usuario al adquirir un bundle en lugar de los productos por separado.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
 
 ## Development server
