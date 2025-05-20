@@ -1,0 +1,16 @@
+<mat-card class="example-card" appearance="outlined" aria-label="Bundle information card">
+  <mat-card-header>
+    <div mat-card-avatar class="example-header-image" aria-hidden="true"></div>
+    <mat-card-title>{{ bundle.title }}</mat-card-title>
+    <mat-card-subtitle>Rating: {{ bundle.rating | number:'1.1-1' }}</mat-card-subtitle>
+  </mat-card-header>
+
+  <img mat-card-image [src]="bundle.photoUrl" [alt]="bundle.title" width="100%" />
+
+  <mat-card-content>
+    <p>{{ bundle.description }}</p>
+
+    <p><strong>Price:</strong> {{ bundle.price | currency:'USD' }}</p>
+    <p><strong>You Save:</strong> {{ bundle.youSave | currency:'USD' }}</p>
+  </mat-card-content>
+</mat-card>

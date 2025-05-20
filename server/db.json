@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "30843977760853",
+      "title": "Ember Mug 2, 14 oz, Black",
+      "description":  "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot. Our smart mug allows you to set an exact drinking temperature, so your coffee is never too hot, or too cold.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_00-black_2048x.jpg",
+      "price": 149.95,
+      "bundleId":  "make-it-last-bundle",
+      "rating": 4.5
+    },
+    {
+      "id": "31570607800405",
+      "title": "Extra Charging Coaster 2: Ember Mug 2, Black",
+      "description":  "The Charging Coaster 2 boasts a new streamlined design that covers less surface area, so you can enjoy more counter space.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM19XC_overhead_black_2000x2000_e5d58cfe-3a94-4de6-803b-8a82cb8618b2_600x.jpg",
+      "price": 39.95,
+      "bundleId":  "make-it-last-bundle",
+      "rating": 4.3
+    },
+    {
+      "id": "43036912976057",
+      "title": "Sliding Lid, 14 oz",
+      "description":  "Your perfect warmth — extended. Keep your Ember Mug splash-free, while extending the battery life to keep your drink warmer for longer. Compatible with Ember Mug and available in 10 oz and 14 oz sizes.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CMSL_12-clear_sliderLid_14oz_600x.jpg",
+      "price": 14.95,
+      "bundleId":  "make-it-last-bundle",
+      "rating": 4.7
+    },
+    {
+      "id": "30843977760853",
+      "title": "Ember Car Charger, Black",
+      "description":  "Now you can maintain your Ember Travel Mug's perfect temperature even longer with the Ember Car Charger. Ensure your Ember Travel Mug stays fully charged for your longest road trip or commute, so it is always ready when you are.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_carCharger_01-glossblack_2048x.jpg",
+      "price": 49.95,
+      "bundleId":  "travel-mug-accessories-bundle",
+      "rating": 4.5
+    },
+    {
+      "id": "bottle-brush",
+      "title": "Bottle Brush, Black",
+      "description":  "Safely clean all of your Ember products with the Bottle Brush.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_TMBB_00-black_600x.jpg",
+      "price": 14.95,
+      "bundleId":  "travel-mug-accessories-bundle",
+      "rating": 4.8
+    },
+    {
+      "id": "41948555411641",
+      "title": "Sipping Lid, Black",
+      "description":  "Always open and ready for the next sip of your favorite hot beverage.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_sippingLid_black_8f61ea43-ec47-4c8e-99d6-cc31b92b59e8_2048x.jpg",
+      "price": 14.95,
+      "bundleId":  "travel-mug-accessories-bundle",
+      "rating": 4.3
+    }
+  ],
+  "bundles": [
+    {
+      "id": "make-it-last-bundle",
+      "title": "Make It Last",
+      "description": "Make it last with our largest handle Mug paired with the battery-extending Sliding Lid. It’s the perfect combination for taking a great cup of coffee outdoors or on the road. Keep your extra charging coaster at home or in the office, so wherever you go, a quick charge isn’t far away.",
+      "photoUrl": "https://ember.com/cdn/shop/products/HeroforCarChargerandTravelMugBundleApr2023fafafa_600x.jpg",
+      "price": 190.85,
+      "rating": 4.4
+    },
+    {
+      "id": "travel-mug-accessories-bundle",
+      "title": "Travel Mug Accessories",
+      "description": "Make the most of your Ember Travel Mug with the full lineup of accessories. This bundle includes everything you need to enhance your Ember Mug experience.",
+      "photoUrl": "https://ember.com/cdn/shop/files/Bundle_TMBB_TMSL_TMCC_00-black_fafafa_2000x2000_72dpi_600x.jpg",
+      "price": 74.85,
+      "rating": 4.5
+    }
+  ]
+}

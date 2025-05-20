@@ -1,0 +1,10 @@
+<main>
+  <section>
+    <h1>Bundles</h1>
+    <div class="bundle-cards">
+      @for (bundle of bundles; track bundle.id) {
+        <app-bundle-item [bundle]="bundle" />
+      }
+    </div>
+  </section>
+</main>

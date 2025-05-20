@@ -1,0 +1,15 @@
+.container {
+  padding: 2rem;
+  color: black;
+  min-height: 100vh;
+}
+
+div {
+  margin: 2rem;
+}
+
+button {
+  padding: 1rem;
+  background-color: white;
+  border-radius: 10px;
+}
